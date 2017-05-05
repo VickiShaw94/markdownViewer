@@ -1,0 +1,26 @@
+{
+  "name": "markdown-viewer",
+  "version": "1.0.0",
+  "description": "realtime markdown viewer",
+  "main": "app.js",
+  "scripts": {
+    "test": "git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VickiShaw94/markdownViewer.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Vicki Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VickiShaw94/markdownViewer/issues"
+  },
+  "homepage": "https://github.com/VickiShaw94/markdownViewer#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
