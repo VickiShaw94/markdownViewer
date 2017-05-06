@@ -6,7 +6,7 @@ window.onload = function() {
     var markdownArea = document.getElementById('markdown');
 
     var convertTextAreaToMarkdown = function() {
-        var markdowntText = pad.value;
+        var markdownText = pad.value;
         html = converter.makeHtml(markdownText);
         markdownArea.innerHTML = html;
     };
